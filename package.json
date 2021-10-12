@@ -11,7 +11,7 @@
   "dependencies": {
     "@expo/electron-adapter": "~0.0.3",
     "@expo/webpack-config": "0.12.16",
-    "electron": "6.1.10",
+    "electron": "11.5.0",
     "expo": "~38.0.0",
     "react": "~16.11.0",
     "react-dom": "~16.11.0",
